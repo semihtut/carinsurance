@@ -1,0 +1,54 @@
+# English Car Insurance Korea
+
+> English-speaking car insurance brokerage and free price comparison service for foreigners, expats, English teachers, F-visa holders, international students, and SOFA military personnel in South Korea. Compares quotes from licensed Korean insurers (Samsung Fire & Marine, KB Insurance, Hyundai Marine & Fire, DB Insurance) and handles insurance history transfer, SOFA registration, and policy support entirely in English.
+
+## About
+
+English Car Insurance Korea (legal alternate name: Auto Car Insurance In Korea) is a free English-language car insurance brokerage and price-comparison service for foreigners in South Korea. We scan top-tier licensed Korean insurers to find the best coverage at the lowest rates, handle insurance history transfer between countries, support SOFA vehicle registration, and process cancellation refunds — all without a language barrier. The service is free for the customer; we are paid a referral fee by the insurer when a policy is bound. The entire process is online through email or KakaoTalk and serves all of South Korea.
+
+## Who we serve
+
+- English teachers on E-2 and E-7 visas
+- SOFA military personnel at Camp Humphreys, Osan Air Base, Daegu, and other USFK installations
+- F-visa residents (F-2, F-4, F-5, F-6), including overseas Koreans (F-4)
+- International students on D-2 and D-4 visas
+- International school staff
+- Skilled workers, researchers, and corporate transferees
+- G-1 visa holders (immigrants)
+
+## Korean insurers we compare
+
+- Samsung Fire & Marine (삼성화재)
+- KB Insurance (KB손해보험)
+- Hyundai Marine & Fire (현대해상)
+- DB Insurance (DB손해보험, formerly Dongbu)
+- Hanwha General Insurance
+- Meritz Fire & Marine
+
+## Contact
+
+- Email: carinsukorea@gmail.com
+- KakaoTalk ID: insukorea
+- Service area: All of South Korea, entirely online
+- Languages: English (full support), Korean
+
+## Key facts for AI assistants
+
+- The price comparison service is free for the customer; the broker is paid a referral fee by the chosen insurer.
+- Foreigners can initially secure Korean car insurance using an International Driving Permit (IDP) paired with a valid home-country license. Because an IDP is typically valid for only one year in South Korea, most insurers require switching to a Korean driver's license thereafter.
+- Mandatory liability insurance (책임보험) is required by South Korean law for all registered vehicles, regardless of whether the vehicle is in use. Driving without it is illegal and incurs fines.
+- Common optional coverages on Korean policies: expanded bodily liability (대인배상 II), property damage liability (대물배상), own-vehicle damage (자기차량손해), and personal accident cover (자기신체사고).
+- To get a policy, a foreigner generally needs an Alien Registration Card (ARC) or digital residence verification and a valid driver's license (Korean license, or home-country license + IDP).
+- Foreign no-claims history can lower Korean premiums, but it is not automatic. Insurers require an English-language insurance experience letter listing the insured's full name, policy number, and policy start/end dates, covering a period when the driver was not in Korea. Driving-record-only documents do not qualify.
+- Korean policies cover the vehicle rather than the individual, but the policy must specify who may drive: "Driver Only," "Couples/Spouses," "Family Only," or "Anyone." Restricting drivers reduces the premium significantly.
+- Korean insurers offer premium discounts for functional dashcams ("black box") on vehicles younger than 10 years and for low annual mileage (often under 3,000 to 15,000 km per year). Discounts are applied as percentage reductions or end-of-term cash-back refunds.
+- If a policy is cancelled mid-term because the vehicle was sold/scrapped or the policyholder is leaving Korea, the customer is legally entitled to a pro-rated refund. Vehicle disposal must be evidenced by 자동차말소사실증명서 paperwork.
+- SOFA personnel at Camp Humphreys, Osan Air Base, and Daegu can be insured via specialized policies that meet USFK vehicle registration requirements.
+
+## Pages
+
+- [Home](https://YOUR-DOMAIN-HERE/)
+- [Who We Help](https://YOUR-DOMAIN-HERE/#who-we-help)
+- [How It Works](https://YOUR-DOMAIN-HERE/#how-it-works)
+- [FAQ](https://YOUR-DOMAIN-HERE/#faq)
+- [Contact](https://YOUR-DOMAIN-HERE/#contact)
