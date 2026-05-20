@@ -850,6 +850,31 @@ button:focus-visible {
   color: var(--ink-soft);
   line-height: 1.55;
 }
+.kakao-qr {
+  margin-top: 24px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.kakao-qr img {
+  display: block;
+  width: 100%;
+  max-width: 220px;
+  height: auto;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+.kakao-qr-caption {
+  font-size: 13px;
+  color: var(--ink-soft);
+  font-style: italic;
+  text-align: center;
+  max-width: 240px;
+  line-height: 1.5;
+}
 
 /* ---------- Footer ---------- */
 .site-footer {
@@ -1487,6 +1512,10 @@ span[lang="ko"] {
           <p class="contact-card-label">KakaoTalk</p>
           <p class="contact-card-value">insukorea</p>
           <p>Add us on KakaoTalk for faster back-and-forth. Service area: all of South Korea, entirely online.</p>
+          <div class="kakao-qr">
+            <img src="/qrcodeinsukorea.jpeg" alt="KakaoTalk QR code — scan to add the insukorea account" width="220" height="271" loading="lazy">
+            <p class="kakao-qr-caption">Scan with your phone's camera or the KakaoTalk app to add us instantly.</p>
+          </div>
         </div>
       </address>
     </div>
